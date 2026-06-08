@@ -1,0 +1,76 @@
+@import url('https://db.onlinewebfonts.com/c/4c56c8d6478c522acd320a94e5605f00?family=Harmond+SemBd+Cond');
+
+@font-face {
+  font-family: 'Remboy';
+  src: url('/src/assets/fonts/RemboyRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  background-color: #0C0C0C;
+  color: #D7E2EA;
+  font-family: 'Kanit', sans-serif;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: clip;
+}
+
+/* Apply the custom Remboy display font to all headings, hero section titles, and navbar links */
+h1, h2, h3, h4, h5, h6, .hero-heading, nav a {
+  font-family: 'Remboy', sans-serif;
+}
+
+/* Ensure all other body text, links, buttons, and form inputs render in the normal sans-serif font */
+p, a, span, button, input, select, textarea {
+  font-family: 'Kanit', sans-serif;
+}
+
+/* Explicitly override general link fallback for navigation links to guarantee Remboy is applied */
+nav a {
+  font-family: 'Remboy', sans-serif !important;
+}
+
+/* Explicitly force the main hero heading 'Hi, i'm Hafiz' to render in the normal layout font Kanit */
+.hero-title {
+  font-family: 'Kanit', sans-serif !important;
+}
+
+body {
+  overflow-x: clip;
+}
+
+.hero-heading {
+  background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: inline-block;
+}
+
+/* Custom Scrollbar for visual excellence */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0C0C0C;
+}
+::-webkit-scrollbar-thumb {
+  background: #222222;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #333333;
+}
