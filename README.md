@@ -2,27 +2,56 @@
 
 <div align="center">
 
-  [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-VISIT%20SITE-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black)](https://hafizsk100200.github.io/3d-portfolio-v1/)
-  [![GitHub stars](https://img.shields.io/github/stars/Hafizsk100200/3d-portfolio-v1?style=for-the-badge&color=ffd700)](https://github.com/Hafizsk100200/3d-portfolio-v1/stargazers)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+  <!-- ─── PRIMARY ACTION BUTTONS (TRENDING GLOW BADGES) ─── -->
+  <a href="https://hafizsk100200.github.io/3d-portfolio-v1/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-EXPLORE%20NOW-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=0a0e17" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Hafizsk100200/3d-portfolio-v1/stargazers">
+    <img src="https://img.shields.io/badge/⭐%20GITHUB%20STARS-STAR%20PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Stars" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/📄%20LICENSE-MIT%20FREE-a855f7?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a0b2e" alt="MIT License" />
+  </a>
+  <a href="https://www.instagram.com/hafiz.sk_/">
+    <img src="https://img.shields.io/badge/📸%20INSTAGRAM-@HAFIZ.SK__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=230a17" alt="Instagram Profile" />
+  </a>
 
   <br />
+  <br />
 
-  [![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  [![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)](https://greensock.com/)
+  <!-- ─── TECH STACK PILLS (HIGH-CONTRAST MODERN BADGES) ─── -->
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101720" alt="React 18" />
+  </a>
+  <a href="https://threejs.org/">
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000" alt="Three.js" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0e1e38" alt="TypeScript" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://img.shields.io/badge/Vite_8-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E&labelColor=171033" alt="Vite 8" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=082f49" alt="Tailwind CSS" />
+  </a>
+  <a href="https://greensock.com/">
+    <img src="https://img.shields.io/badge/GSAP_3-88CE02?style=for-the-badge&logo=greensock&logoColor=white&labelColor=142603" alt="GSAP 3" />
+  </a>
+
+  <br />
+  <br />
+
+  <!-- ─── MASSIVE TRENDING CALL-TO-ACTION BUTTON ─── -->
+  <a href="https://hafizsk100200.github.io/3d-portfolio-v1/">
+    <img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_EXPERIENCE_»-00F2FE?style=for-the-badge&logo=rocket&logoColor=000000" height="42" alt="Launch Live 3D Experience" />
+  </a>
 
   <p align="center">
     <b>A state-of-the-art, high-performance 3D developer portfolio featuring procedural WebGL shaders, interactive GLTF chromium mesh rendering, dynamic scroll-synchronized physics, and kinetic typography.</b>
   </p>
 
   <p align="center">
-    <a href="https://hafizsk100200.github.io/3d-portfolio-v1/"><strong>Explore the Live Experience »</strong></a>
-    <br />
-    <br />
     <a href="#-key-features">Key Features</a>
     ·
     <a href="#-tech-stack">Tech Stack</a>
