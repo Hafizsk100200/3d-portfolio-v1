@@ -9,9 +9,6 @@
   <a href="https://github.com/Hafizsk100200/3d-portfolio-v1/stargazers">
     <img src="https://img.shields.io/badge/⭐%20GITHUB%20STARS-STAR%20PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Stars" />
   </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/📄%20LICENSE-MIT%20FREE-a855f7?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a0b2e" alt="MIT License" />
-  </a>
   <a href="https://www.instagram.com/hafiz.sk_/">
     <img src="https://img.shields.io/badge/📸%20INSTAGRAM-@HAFIZ.SK__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=230a17" alt="Instagram Profile" />
   </a>
@@ -209,12 +206,6 @@ npm run preview
 * 🌐 **Portfolio V2 (Latest):** [hafizsk.qzz.io](https://hafizsk.qzz.io/)
 * 📸 **Instagram:** [@hafiz.sk_](https://www.instagram.com/hafiz.sk_/)
 * 📧 **Email:** Available via portfolio contact form
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to explore, learn from, and adapt the code for your own creative projects. If you use this project for inspiration or reference, giving a star ⭐ to this repository is greatly appreciated!
 
 ---
 
