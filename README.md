@@ -178,7 +178,7 @@ npm run preview
 
 ### Connect with Hafiz:
 * 🌐 **Portfolio V2 (Latest):** [hafizsk.qzz.io](https://hafizsk.qzz.io/)
-* 🐙 **GitHub:** [@Hafizsk100200](https://github.com/Hafizsk100200)
+* 📸 **Instagram:** [@hafiz.sk_](https://www.instagram.com/hafiz.sk_/)
 * 📧 **Email:** Available via portfolio contact form
 
 ---

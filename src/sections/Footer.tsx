@@ -17,7 +17,7 @@ export const Footer: React.FC<FooterProps> = ({ showCTA = false }) => {
     { icon: <Mail size={20} />, href: 'mailto:hafizsk100200@gmail.com', name: 'Email' },
     { icon: <Linkedin size={20} />, href: 'https://linkedin.com', name: 'LinkedIn' },
     { icon: <Github size={20} />, href: 'https://github.com', name: 'GitHub' },
-    { icon: <Instagram size={20} />, href: 'https://instagram.com', name: 'Instagram' },
+    { icon: <Instagram size={20} />, href: 'https://www.instagram.com/hafiz.sk_/', name: 'Instagram' },
   ];
 
   return (
