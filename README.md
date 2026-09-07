@@ -205,7 +205,7 @@ npm run preview
 ### Connect with Hafiz:
 * 🌐 **Portfolio V2 (Latest):** [hafizsk.qzz.io](https://hafizsk.qzz.io/)
 * 📸 **Instagram:** [@hafiz.sk_](https://www.instagram.com/hafiz.sk_/)
-* 📧 **Email:** Available via portfolio contact form
+* 📧 **Email:** <a href="mailto:shaikhafiz.developer@gmail.com"><img src="https://img.shields.io/badge/✉️_shaikhafiz.developer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0808" alt="Send Email" /></a> &amp; Available via portfolio contact form
 
 ---
 

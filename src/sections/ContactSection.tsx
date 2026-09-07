@@ -274,8 +274,8 @@ export const ContactSection: React.FC = () => {
             <FadeIn delay={0.4} y={20} duration={0.6} animateOnMount={true}>
               <div className="flex items-center gap-4 text-[#D7E2EA]/85 hover:text-[#D7E2EA] transition-colors duration-300 select-all">
                 <span className="text-xs uppercase tracking-widest text-[#D7E2EA]/40">Email:</span>
-                <a href="mailto:hafizsk100200@gmail.com" className="font-medium text-sm sm:text-base border-b border-transparent hover:border-[#D7E2EA] transition-colors duration-200">
-                  hafizsk100200@gmail.com
+                <a href="mailto:shaikhafiz.developer@gmail.com" className="font-medium text-sm sm:text-base border-b border-transparent hover:border-[#D7E2EA] transition-colors duration-200">
+                  shaikhafiz.developer@gmail.com
                 </a>
               </div>
             </FadeIn>
