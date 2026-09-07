@@ -310,7 +310,14 @@ const FaceInstance: React.FC<FaceProps> = ({ url, index, totalCount, scrollProgr
 };
 
 // Preload the model
-useGLTF.preload('/model.glb');
+const getModelPath = () => {
+  const base = import.meta.env.BASE_URL || '/';
+  return `${base.replace(/\/+$/, '')}/model.glb`;
+};
+const MODEL_URL = getModelPath();
+
+// Preload the model
+useGLTF.preload(MODEL_URL);
 
 // ─── 2. Face Assembly (spins on scroll, subtle breathing bob) ─────────────────
 interface FaceAssemblyProps {
@@ -344,7 +351,7 @@ const FaceAssembly: React.FC<FaceAssemblyProps> = ({ scrollProgress, visibleStar
       {Array.from({ length: 7 }).map((_, i) => (
         <FaceInstance
           key={i}
-          url="/model.glb"
+          url={MODEL_URL}
           index={i}
           totalCount={7}
           scrollProgress={scrollProgress}
